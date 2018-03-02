@@ -27,7 +27,7 @@ h1 {
  font-weight:400;
  font-size: 45px;
  letter-spacing: 1px;
- color:#0D2C40;
+ color:white;
  margin: 0;
 }
 
@@ -74,9 +74,21 @@ main {
 }
 
 img {
-	margin: 40px 8px 0px 8px;
+	margin: 30px 8px 0px 8px;
 }
 
+
+button {
+
+	color: red;
+	font-size: 16px;
+	padding: 10px;
+	border: .5px solid #F15B31;
+	border-radius: 8px;
+	margin: 30px 8px 0px 8px;
+
+
+}
 footer {
 	text-transform: uppercase;
 	padding:0px 20px 0px 20px;
